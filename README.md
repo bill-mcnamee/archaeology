@@ -12,15 +12,25 @@ This repository documents that academic and professional experience and the earl
 
 ## Scope
 
-* **Archaeology & Cultural Resource Management** — Field survey, archaeological documentation, artifact research, cultural resource inventories, monitoring, excavation reporting, and work supporting federal and private-sector cultural resource management (CRM) projects.
+### Archaeology & Cultural Resource Management
 
-* **Field & Museum Experience** — Archaeological fieldwork in the American Southwest and northern Manitoba, museum and laboratory work, artifact processing and cataloging, archaeological site stabilization, and public interpretation.
+Field survey, archaeological documentation, artifact research, cultural resource inventories, monitoring, excavation reporting, and work supporting federal and private-sector cultural resource management (CRM) projects.
 
-* **Technology & Information Management** — Relational databases for archaeological research and artifact collections, computer-aided drafting (CAD), geographic information systems (GIS), digitization, data management, and the application of emerging computer technologies to archaeological practice.
+### Field & Museum Experience
 
-* **Documentation & Publishing** — Archaeological writing and editing, CAD and cartographic illustration, artifact photography, desktop publishing, report production, and the preparation of archaeological research for professional and government publication.
+Archaeological fieldwork in the American Southwest and northern Manitoba, museum and laboratory work, artifact processing and cataloging, archaeological site stabilization, and public interpretation.
 
-* **Leadership & Communication** — Technology planning and implementation within CRM organizations, staff training, collaboration with archaeologists and organizational leadership, vendor and government relationships, project support, and guest speaking on archaeological fieldwork and technology.
+### Technology & Information Management
+
+Relational databases for archaeological research and artifact collections, computer-aided drafting (CAD), geographic information systems (GIS), digitization, data management, and the application of emerging computer technologies to archaeological practice.
+
+### Documentation & Publishing
+
+Archaeological writing and editing, CAD and cartographic illustration, artifact photography, desktop publishing, report production, and the preparation of archaeological research for professional and government publication.
+
+### Leadership & Communication
+
+Technology planning and implementation within CRM organizations, staff training, collaboration with archaeologists and organizational leadership, vendor and government relationships, project support, and guest speaking on archaeological fieldwork and technology.
 
 ## Highlights
 
