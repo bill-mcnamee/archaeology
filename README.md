@@ -80,7 +80,7 @@ Invited by Towson University's Department of Anthropology to speak on archaeolog
 
 ## Links
 
-**Bill McNamee**
+### Bill McNamee
 
 **Website:** [BillMcNamee.com](https://www.billmcnamee.com)  
 Professional and creative work by Bill McNamee.
@@ -88,17 +88,17 @@ Professional and creative work by Bill McNamee.
 **GitHub:** [bill-mcnamee](https://github.com/bill-mcnamee)  
 Professional profile and selected work by Bill McNamee.
 
-**Canyons of the Ancients Visitor Center and Museum**
+### Canyons of the Ancients Visitor Center and Museum
 
 **Website:** [blm.gov](https://www.blm.gov/visit/canyons-ancients-national-monument-visitor-center-and-museum)  
 Visitor center and museum associated with Canyons of the Ancients National Monument in Dolores, Colorado.
 
-**Churchill Northern Studies Centre**
+### Churchill Northern Studies Centre
 
 **Website:** [churchillscience.ca](https://churchillscience.ca)  
 Research facility in Churchill, Manitoba, and base for my 1989 archaeological fieldwork in northern Manitoba.
 
-**R. Christopher Goodwin & Associates, Inc.**
+### R. Christopher Goodwin & Associates, Inc.
 
 **Website:** [rcgoodwin.com](https://www.rcgoodwin.com)  
 Cultural resource management firm where I served as Information Technology Coordinator from 1994 to 1996.
