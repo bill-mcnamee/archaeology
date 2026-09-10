@@ -72,21 +72,95 @@ Invited by Towson University's Department of Anthropology to speak on archaeolog
 
 ## Publications
 
-- Hammack, Nancy S., and William D. McNamee. *Archaeological Excavations on Reach III of the Dove Creek Canal.* *Four Corners Archaeological Project*, Report No. 18. Complete Archaeological Service Associates, 1999.
+### Authored
 
-- McNamee, William D. “The Cultural History of Eastern New Mexico.” In *Cultural Resources Along the 1992 Alignment of the Eastern New Mexico Water Supply Project*. Complete Archaeological Service Associates, 1992.
+**McNamee, William D., Nancy S. Hammack, Raymond G. Harriman, and Richard W. Yarnell**
 
-- McNamee, William D. “Appendix A: Culturally Scarred Trees of Lake Vallecito Reservoir.” *Pine River Project, La Plata County, Colorado.* Complete Archaeological Service Associates, 1991.
+- 1999 *Excavations at Coffey Hamlet (5DL1120), A Pueblo I Habitation.* In *Archaeological Excavations of Reach III of Dove Creek Canal, Four Corners Archaeological Project, Report No. 18*, compiled by William D. McNamee and Nancy S. Hammack. Complete Archaeological Service Associates, Cortez, Colorado.
 
-- McNamee, William D., and Laurens C. Hammack. “Cultural Resource Inventory: Towaoc Canal Project, Lone Pine Laterals Borrow Areas.” *Four Corners Archaeological Project*, Report No. 8, Addendum No. 9. Complete Archaeological Service Associates, 1991.
+**McNamee, William D., Raymond G. Harriman, and Richard W. Yarnell**
 
-- McNamee, William D. “Cultural Resource Inventory: Rocky Ford Laterals Borrow Areas.” *Four Corners Archaeological Project*, Report No. 8, Addendum No. 8. Complete Archaeological Service Associates, 1991.
+- 1999 *Excavations at Palote Azul Stockade (5DL112), A Late Basketmaker III Habitation.* In *Archaeological Excavations of Reach III of Dove Creek Canal, Four Corners Archaeological Project, Report No. 18*, compiled by William D. McNamee and Nancy S. Hammack. Complete Archaeological Service Associates, Cortez, Colorado.
 
-- McNamee, William D. “Attachment A and B: Annotated Bibliography and USGS Maps.” Cultural resources documentation for the Elephant Butte, Caballo, Percha, and Leasburg Dam areas, New Mexico. Complete Archaeological Service Associates, 1990.
+- 1999 *Excavations at Cloud Blower Stockade (5DL121B), A Late Basketmaker III Habitation.* In *Archaeological Excavations of Reach III of Dove Creek Canal, Four Corners Archaeological Project, Report No. 18*, compiled by William D. McNamee and Nancy S. Hammack. Complete Archaeological Service Associates, Cortez, Colorado.
 
-- McNamee, William D. “Cultural Resource Monitoring: Sand Rock Communication Site.” Complete Archaeological Service Associates, 1990.
+- 1999 *Excavations at Casa Tejon (5DL1091), A Late Basketmaker III Habitation.* In *Archaeological Excavations of Reach III of Dove Creek Canal, Four Corners Archaeological Project, Report No. 18*, compiled by William D. McNamee and Nancy S. Hammack. Complete Archaeological Service Associates, Cortez, Colorado.
 
-- McNamee, William D. “Cultural Resource Monitoring: Cow Point Microwave Power-line.” Complete Archaeological Service Associates, 1990.
+- 1999 *Excavations at Vinger Hamlet (5DL1138), A Late Basketmaker III Habitation.* In *Archaeological Excavations of Reach III of Dove Creek Canal, Four Corners Archaeological Project, Report No. 18*, compiled by William D. McNamee and Nancy S. Hammack. Complete Archaeological Service Associates, Cortez, Colorado.
+
+**McNamee, William D. and Raymond G. Harriman**
+
+- 1999 *Excavations at Casa Primero (5DL1105), A Late Basketmaker III Habitation.* In *Archaeological Excavations of Reach III of Dove Creek Canal, Four Corners Archaeological Project, Report No. 18*, compiled by William D. McNamee and Nancy S. Hammack. Complete Archaeological Service Associates, Cortez, Colorado.
+
+**McNamee, William D.**
+
+- 1999 *Limited Excavations.* In *Archaeological Excavations of Reach III of Dove Creek Canal, Four Corners Archaeological Project, Report No. 18*, compiled by William D. McNamee and Nancy S. Hammack. Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1992 *The Cultural History of Eastern New Mexico.* In *Cultural Resources Along the 1992 Alignment of the Eastern New Mexico Water Supply Project, Quay, Curry, and Roosevelt Counties, New Mexico.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1991 *Appendix A: Culturally Scarred Trees of Lake Vallecito Reservoir.* In *Cultural Resource Inventory: Vallecito Reservoir Shoreline, Pine River Project, LaPlata County, Colorado.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1991 *Cultural Resource Inventory, Rocky Ford Laterals Borrow Areas, Montezuma County, Colorado.* Four Corners Archaeological Project, Report No. 8, Addendum No. 8. Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1990 *Attachment A: Annotated Bibliography.* In *Cultural Resources of Elephant Butte, Caballo, Percha, and Leasburg Dam Areas in Socorro, Sierra, and Dana Ana Counties, New Mexico.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1990 *Attachment B: USGS Maps.* In *Cultural Resources of Elephant Butte, Caballo, Percha, and Leasburg Dam Areas in Socorro, Sierra, and Dana Ana Counties, New Mexico.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1990 *Cultural Resource Monitoring: Cow Point Microwave Power-line, Empire Electric Association, Montezuma County, Colorado.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1990 *Cultural Resource Monitoring: Sand Rock Communication Site, Empire Electric Association, Montezuma County, Colorado.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+**Hammack, Laurens C. and William D. McNamee**
+
+- 1991 *Cultural Resource Inventory: Towaoc Canal Project, Lone Pine Laterals Borrow Areas, Montezuma County, Colorado.* Four Corners Archaeological Project, Report No. 8, Addendum No. 9. Complete Archaeological Service Associates, Cortez, Colorado.
+
+### Edited
+
+**Hovezak, Timothy D. and Leslie M. Sesler (compilers)**
+
+- 2002 *Archaeological Investigations in the Fruitland Project Area: Late Archaic, Basketmaker, Pueblo I, and Navajo Sites in Northwestern New Mexico, Vol. III: The Basketmaker and Pueblo I Sites.* La Plata Archaeological Consultants Research Paper No. 4. La Plata Archaeological Consultants, Dolores, Colorado.
+
+**McNamee, William D. and Nancy S. Hammack (compilers)**
+
+- 1999 *Archaeological Excavations on Reach III of the Dove Creek Canal, Four Corners Archaeological Project, Report No. 18.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+**Goodwin & Associates, Inc.**
+
+- 1996 *Cultural Resources at Aberdeen Proving Ground: The Prehistoric Lifeways Project.* R. Christopher Goodwin & Associates, Inc., Frederick, Maryland.
+
+- 1996 *Fort Belvoir: Host to History.* R. Christopher Goodwin & Associates, Inc., Frederick, Maryland.
+
+- 1996 *Cultural Resources Investigations: Naval Station, Roosevelt Roads.* R. Christopher Goodwin & Associates, Inc., Frederick, Maryland.
+
+- 1996 *Cultural Resources Investigations: Sabana Seca, Naval Security Group Activity.* R. Christopher Goodwin & Associates, Inc., Frederick, Maryland.
+
+- 1995 *The Carlisle Indian Industrial School.* R. Christopher Goodwin & Associates, Inc., Frederick, Maryland.
+
+- 1995 *Looking at Careers: Historical Archaeology.* R. Christopher Goodwin & Associates, Inc., Frederick, Maryland.
+
+- 1995 *Defending the Legacy: A Basic Training Program for DOD Cultural Resource Managers.* R. Christopher Goodwin & Associates, Inc., Frederick, Maryland.
+
+**Errickson, Mary**
+
+- 1993 *Archaeological Investigations on Prehistoric Sites, Reach III of the Towaoc Canal, Ute Mountain Ute Reservation, Montezuma County Colorado.* Four Corners Archaeological Project, Report No. 21. Complete Archaeological Service Associates, Cortez, Colorado.
+
+**Curtis, Ross S.**
+
+- 1992 *Historical Archaeological Investigations in the Mariano Springs Vicinity, Ute Mountain Ute Reservation, Montezuma County, Colorado.* Four Corners Archaeological Project, Report No. 23. Complete Archaeological Service Associates, Cortez, Colorado.
+
+**Hammack, Laurens C.**
+
+- 1992 *Cultural Resources Along the 1992 Alignment of the Eastern New Mexico Water Supply Project, Quay, Curry, and Roosevelt Counties, New Mexico.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+**Marshall, Michael and Christina Marshall**
+
+- 1992 *Investigations in the Middle Rio Grande Conservancy District: A Cultural Resource Survey of Irrigation and Drainage Canals in the Isleta-South to LaJoya Area. The 1991-1992 Bureau of Reclamation Phase III Survey.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+- 1990 *The 1989-1990 Middle Rio Grande Acequia Archaeological Survey Project.* Complete Archaeological Service Associates, Cortez, Colorado.
+
+**Hammack, Nancy S.**
+
+- 1991 *Cultural Resource Monitoring and Testing, Sand Canyon CO2 Project, Montezuma County, Colorado.* Complete Archaeological Service Associates, Cortez, Colorado.
 
 ## Links
 
